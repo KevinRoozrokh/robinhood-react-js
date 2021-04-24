@@ -1,4 +1,4 @@
-RobinHood React JS Clone v1.00
+RobinHood React JS Clone v1.00 - Code will only be shared privately, with permission.
 
 Kevin's React App is live at: https://robinhood-react-84145.web.app/
 

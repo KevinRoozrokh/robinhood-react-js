@@ -1,4 +1,4 @@
-RobinHood React JS Clone v1.00 - Code will only be shared privately, with permission.
+RobinHood React JS Clone v1.00 - React JS build out of Robinhood app account page.
 
 Kevin's React App is live at: https://robinhood-react-84145.web.app/
 
@@ -15,7 +15,7 @@ Email: KevRooz@Outlook.com
 Version Notes //
 
 Version v1.00
-Build out of Robinhood app account page. Match lists, add list and crypto tabs. Hover effects.
+Code set to private. Lists. Add list. Crypto tabs. Hover effects.
 
 Version v1.01
 Notes //code negative percentages to change color to red.

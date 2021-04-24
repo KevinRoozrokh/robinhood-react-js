@@ -2,7 +2,7 @@ RobinHood React JS Clone v1.00
 
 Coded by Kevin Roozrokh: https://kevinroozrokh.github.io/
 
-Kevin's React App is live at:
+Kevin's React App is live at: https://robinhood-react-84145.web.app/
 
 Icons are using Material UI API.
 Hosting and database are provided by Google Firebase.

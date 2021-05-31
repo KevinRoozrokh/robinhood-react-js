@@ -1,4 +1,4 @@
-RobinHood React JS Clone v1.00 - React JS build out of Robinhood app account page.
+RobinHood React JS Clone v1.00 - React JS build out of Robinhood app account page. Material-UI, FinnHub API.
 
 
 ---
